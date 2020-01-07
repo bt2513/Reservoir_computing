@@ -1,0 +1,8 @@
+sparsity = 0.98
+units = 400
+mask = [0.49, 0.51]
+inputScaling = 1
+leakingRate = 1
+activation = relu
+
+Cochleas obtained with a decimation of 170.

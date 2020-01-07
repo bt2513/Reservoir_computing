@@ -1,0 +1,8 @@
+sparsity = 0.98
+units = 300
+mask = [0.49, 0.51]
+inputScaling = 1
+leakingRate = 1
+activation = sigmoid
+
+Cochleas obtained with a decimation of 170.
