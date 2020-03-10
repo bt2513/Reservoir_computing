@@ -1,4 +1,3 @@
-# Dataset from M. Locquet
 
 
 #from activationNmos import activationNmos
